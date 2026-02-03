@@ -8,7 +8,7 @@ Ce projet personnel explore un dataset de **environ 80,000 enregistrements** de 
 
 **Dataset** : [Maven Analytics - Hospital Patient Records](https://mavenanalytics.io/data-playground/hospital-patient-records)
 
-Données synthétiques sur environ 1 000 patients du Massachusetts General Hospital de 2011 à 2022, incluant des informations sur la démographie des patients, la couverture d’assurance et les consultations et procédures médicales.
+Données synthétiques sur environ 1 000 patients du Massachusetts General Hospital de 2011 à 2022, incluant des informations sur la démographie des patients, la couverture d’assurance, les consultations et procédures médicales.
 
 ## Objectifs
 
