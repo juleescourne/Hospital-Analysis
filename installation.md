@@ -11,7 +11,6 @@ Guide complet pour installer et configurer la base de données hospitalière MyS
 - [Création des tables](#création-des-tables)
 - [Import des données](#import-des-données)
 - [Vérification](#vérification)
-- [Dépannage](#dépannage)
 
 ## Prérequis
 
