@@ -130,7 +130,6 @@ hospital-analytics/
 │
 ├── README.md                                   
 ├── INSTALLATION.md                             # Guide d'installation détaillé
-├── business_questions.md                       # Questions métier analysées
 │
 ├── queries/
 │   ├── 01_data_exploration.sql                 # Exploration initiale
